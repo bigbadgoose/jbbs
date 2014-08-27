@@ -1,0 +1,27 @@
+# -- default theme meta
+name: JekyllBowerBootstrapSass
+title: JekyllBowerBootstrapSass
+description: >
+  A minimum viable boilerplate for setting up Jekyll with Bower, Bootstrap, and Sass. Bonus: Font Awesome.
+  Converts the default Jekyll theme with a tiny set of power-packed changes.
+
+
+# -- config
+destination: _site
+markdown: redcarpet
+highlighter: pygments
+
+
+# -- bower support
+sass:
+  sass_dir: 'assets/stylesheets/sass'
+  load_paths:
+    - 'bower_components'
+bower_path: '/bower_components'
+
+
+# -- attribution
+github_username: 'bigbadgoose'
+twitter_username: 'BigBadGoos3'
+email: 'info@bigbadgoose.com'
+

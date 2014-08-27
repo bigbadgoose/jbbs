@@ -1,0 +1,18 @@
+{
+  "name": "JekyllBowerBootstrapSass",
+  "version": "0.0.0",
+  "description": "Jekyll Boilerplate with Bower and Bootstrap Sass",
+  "author": "Doug Lee <doug@bigbadgoose.com>",
+  "homepage": "http://roots.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/roots/roots.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jekyll",
+    "bower",
+    "bootstrap",
+    "sass"
+  ]
+}

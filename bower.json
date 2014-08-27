@@ -1,0 +1,27 @@
+{
+  "name": "JekyllBowerBootstrapSass",
+  "version": "0.0.0",
+  "authors": [
+    "Doug Lee <doug@bigbadgoose.com>"
+  ],
+  "description": "Jekyll Boilerplate with Bower, Bootstrap, Sass feat. Font Awesome",
+  "keywords": [
+    "jekyll",
+    "bower",
+    "bootstrap",
+    "sass",
+    "font awesome"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass-official": "~3.2.0+1",
+    "fontawesome": "~4.1.0"
+  }
+}

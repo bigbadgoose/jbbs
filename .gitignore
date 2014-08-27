@@ -1,0 +1,11 @@
+# System
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# App
+.sass-cache
+.sass-cache/*
+_site
+bower_components
