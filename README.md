@@ -3,7 +3,7 @@
 
 ## Setup
 
-0. These instructions assume Jekyll already
+0. These instructions assume [Jekyll](http://jekyllrb.com/) already
 1. You will need [npm](https://npmjs.org/): `homebrew install npm`
 2. You will also need [bower](http://bower.io/): `npm install -g bower`
 3. Then run `bower install`
